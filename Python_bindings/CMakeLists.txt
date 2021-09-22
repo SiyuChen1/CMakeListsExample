@@ -1,0 +1,4 @@
+add_subdirectory(Pypanda)
+add_subdirectory(Registration)
+add_subdirectory(SimpleObserver)
+add_subdirectory(Vision-pipeline)
